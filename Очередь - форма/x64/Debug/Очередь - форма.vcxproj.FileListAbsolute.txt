@@ -1,0 +1,3 @@
+D:\Desktop\Очередь - форма\Очередь - форма\x64\Debug\Очередь - форма.vcxproj.AssemblyReference.cache
+D:\Desktop\Очередь - форма\Очередь - форма\x64\Debug\Очередьформа.MyForm.resources
+D:\Desktop\Очередь - форма\Очередь - форма\x64\Debug\Очередь - форма.vcxproj.GenerateResource.cache
